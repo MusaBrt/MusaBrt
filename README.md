@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm working with java - c# - js - html - css.
+I'm a confused programmer. Because i'm dealing with too much things like nuclear physics. Anyway, I'm working with java - c# - js - html - css.
 
-# Contact
+### Contact
 letter or discord; koply#1870
 
 <!--
