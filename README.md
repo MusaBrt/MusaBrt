@@ -5,6 +5,9 @@ I'm a confused programmer. Because I'm dealing with too much things like nuclear
 ### Contact
 letter or discord; koply#1870
 
+![github stats](https://github-readme-stats.vercel.app/api?username=musabrt&show_icons=true&&line_height=40)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musabrt&show_icons=true)
+
 <!--
 **MusaBrt/MusaBrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
