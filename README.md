@@ -13,9 +13,9 @@ I'm a confused programmer. Because I'm dealing with too much things like nuclear
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musabrt&show_icons=true)
 
 ### My Last & Useful Project
-<p align='center'>
+
 [![koply-core](https://github-readme-stats.vercel.app/api/pin/?username=musabrt&repo=koply-core)](https://github.com/musabrt/koply-core)
-</p>
+
 <!--
 **MusaBrt/MusaBrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
