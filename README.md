@@ -2,8 +2,10 @@
 
 I'm a confused programmer. Because I'm dealing with too much things like nuclear physics. Anyway, I'm working with java - c# - js - html - css.
 
-### Contact
-letter or discord; koply#1870
+<p align='center'>
+<a href="https://dev.to/musabrt"><img height="30" src="https://raw.githubusercontent.com/MusaBrt/MusaBrt/master/icons/dev-black.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://discord.gg/4G4wDvk"><img height="30" src="https://raw.githubusercontent.com/MusaBrt/MusaBrt/master/icons/discord-black.jpg?raw=true"></a>&nbsp;&nbsp;
+</p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=musabrt&show_icons=true&&line_height=27)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musabrt&show_icons=true)
