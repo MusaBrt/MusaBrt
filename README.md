@@ -1,6 +1,6 @@
-<p align='center'># Hi there 👋</p>
+<h3 align="center"> mr/mrs. visitor, welcome </h3>
 
-I'm a confused programmer. Because I'm dealing with too much things like nuclear physics. Anyway, I'm working with java - c# - js - html - css.
+My name is Musa and I'm 17 years old. I'm a confused programmer. Because I'm dealing with too much things like nuclear physics. Anyway, I'm working with java - c# - js - html - css.
 
 <p align='center'>
 <a href="https://dev.to/musabrt"><img height="40" src="https://raw.githubusercontent.com/MusaBrt/MusaBrt/master/icons/dev-black.png?raw=true"></a>&nbsp;&nbsp;
