@@ -1,4 +1,4 @@
-# Hi there 👋
+<p align='center'># Hi there 👋</p>
 
 I'm a confused programmer. Because I'm dealing with too much things like nuclear physics. Anyway, I'm working with java - c# - js - html - css.
 
@@ -7,14 +7,13 @@ I'm a confused programmer. Because I'm dealing with too much things like nuclear
 <a href="https://discord.gg/4G4wDvk"><img height="40" src="https://raw.githubusercontent.com/MusaBrt/MusaBrt/master/icons/discord-black.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-### My Stats
+#### som stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=musabrt&show_icons=true&&line_height=27)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musabrt&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=musabrt&show_icons=true&&line_height=22)
 
-### My Last & Useful Project
+#### my last project
 
-[![koply-core](https://github-readme-stats.vercel.app/api/pin/?username=musabrt&repo=koply-core)](https://github.com/musabrt/koply-core)
+[![koply-core](https://github-readme-stats.vercel.app/api/pin/?username=musabrt&repo=koply-core&&line_height=22)](https://github.com/musabrt/koply-core)
 
 <!--
 **MusaBrt/MusaBrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
