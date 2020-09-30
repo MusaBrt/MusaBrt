@@ -10,11 +10,11 @@ My name is Musa and I'm 17 years old. I'm a confused programmer. Because I'm dea
 
 #### Stats
 <p align='center'>
-![github stats](https://github-readme-stats.vercel.app/api?username=musabrt&show_icons=true&&line_height=22)
+<img src="https://github-readme-stats.vercel.app/api?username=musabrt&show_icons=true&&line_height=22" height="100%">
 </p>
 #### My last project
 <p align='center'>
-[![koply-core](https://github-readme-stats.vercel.app/api/pin/?username=musabrt&repo=koply-core&&line_height=22)](https://github.com/musabrt/koply-core)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=musabrt&repo=koply-core&&line_height=22" height="100%">
 </p>
 <!--
 **MusaBrt/MusaBrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
