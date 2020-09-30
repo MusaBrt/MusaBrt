@@ -8,14 +8,14 @@ My name is Musa and I'm 17 years old. I'm a confused programmer. Because I'm dea
 <a href="https://discord.gg/4G4wDvk"><img height="40" src="https://raw.githubusercontent.com/MusaBrt/MusaBrt/master/icons/discord-black.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-#### som stats
-
+#### Stats
+<p align='center'>
 ![github stats](https://github-readme-stats.vercel.app/api?username=musabrt&show_icons=true&&line_height=22)
-
-#### my last project
-
+</p>
+#### My last project
+<p align='center'>
 [![koply-core](https://github-readme-stats.vercel.app/api/pin/?username=musabrt&repo=koply-core&&line_height=22)](https://github.com/musabrt/koply-core)
-
+</p>
 <!--
 **MusaBrt/MusaBrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
