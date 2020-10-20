@@ -1,7 +1,7 @@
 <h3 align="center"> Ms/Mr. Visitor, Welcome! </h3>
 <hr>
 
-My name is Musa and I'm 17 years old. I'm a confused programmer. Because I'm dealing with too much things like nuclear physics. Anyway, I'm working with java - c# - js - html - css. Here are my toys, if you want to look they are just keep scroll.
+My name is Musa and I'm 17 years old. I'm a confused programmer. Because I'm dealing with too much things like nuclear physics. Anyway, I'm working with java - kotlin - c# - js - html - css. Here are my toys, if you want to look they are just keep scroll.
 
 <p align='center'>
 <a href="https://dev.to/musabrt"><img height="40" src="https://raw.githubusercontent.com/MusaBrt/MusaBrt/master/icons/dev-black.png?raw=true"></a>&nbsp;&nbsp;
