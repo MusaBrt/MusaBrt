@@ -9,7 +9,7 @@ My name is Musa and I'm 17 years old. I'm a confused programmer. Because I'm dea
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=musabrt&show_icons=true&&line_height=22" height="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=musabrt&show_icons=true&line_height=22&theme=dracula" height="100%">
 </p>
 <!--
 **MusaBrt/MusaBrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
