@@ -6,13 +6,21 @@ Methodlar içerisinde dışardan parametre alabilen kod parçacıklarıdır. Ça
 Örnekler:
 ```java
 public void methodum() {
-  // herhangi bir veri döndermeyen ve parametre almayan bir methodum isimli method. Aynı sınıf içinde methodum(); şeklinde kullanılabilir.
+  // herhangi bir veri döndermeyen ve parametre almayan 
+  // bir methodum isimli method. 
+  // Aynı sınıf içinde methodum(); şeklinde kullanılabilir.
 }
 ```
 
 ```java
 public boolean methodum(String text) {
-   // içine text değişken ismiyle String tipinden parametre alan bir methodum isimli method. Geriye boolean dönderiyor. Void methodda return kullanmak zorunda değiliz. Kullanırsak 'return;' şeklinde kullanabilirsin. Bu direkt methodu kullandığın yerde bitirir. Fakat geriye bir veri dönderen methodlarda zorunlu olarak veri döndermek zorundasın.
+   /* içine text değişken ismiyle String tipinden parametre 
+   * alan bir methodum isimli method. Geriye boolean dönderiyor. 
+   * Void methodda return kullanmak zorunda değiliz. 
+   * Kullanırsak 'return;' şeklinde kullanabilirsin. Bu direkt 
+   * methodu kullandığın yerde bitirir. Fakat geriye bir veri 
+   * dönderen methodlarda zorunlu olarak veri döndermek zorundasın. 
+   */
   return false;
    // hata almamak için boş methodda false dönderdik. true'da dönderilebilir keyfe kalmış.
 }
